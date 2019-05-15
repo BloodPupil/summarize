@@ -1,5 +1,45 @@
 # 知识总结
 ## 想法
-+ [渗透测试之我的渗透观](https://blog.csdn.net/Blood_Pupil/article/details/88236244)
++ [我的渗透观](https://blog.csdn.net/Blood_Pupil/article/details/88236244)
+## Web安全
+### Web攻击面分析
++ [会话验证](https://blog.csdn.net/Blood_Pupil/article/details/88940881)
++ [会话管理](https://blog.csdn.net/Blood_Pupil/article/details/89202326)
++ [访问控制]()
+....
+### Web通用漏洞分析
++ [XXE]()
++ [SQl]()
++ [XSS]()
++ [SSRF]()
++ [CSRF]()
++ [文件操作]()
++ [变量覆盖]()
++ [反序列化漏洞]()
++ [命令执行]()
++ [代码执行]()
++ [编程语言漏洞与弱点]()
+### [常见框架漏洞]()
+### [常见CMS漏洞]()
+### [常见组件漏洞]()
+## [中间件漏洞集合]()
 ## 内网
 + [端口转发及代理](https://blog.csdn.net/Blood_Pupil/article/details/88913145)
++ [提权]（）
++ [shell]（）
++ [信息收集]()
++ [数据传输]()
++ [权限维持]()
+## 技巧
++ [常见数据库攻击点分析]()
++ [Waf等绕过技巧总结]()
++ [敏感文件列表]()
+## 开源工具使用与分析
++ [impacket]()
++ [lfisuite]()
+
+## 个人开发工具
+
+## 知识碎片
++ [iptables](https://blog.csdn.net/Blood_Pupil/article/details/90021402)
++ [卷积计算](https://blog.csdn.net/Blood_Pupil/article/details/89402170)
