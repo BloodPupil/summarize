@@ -24,7 +24,7 @@
 ### 常见CMS漏洞
 ### 常见组件漏洞
 ## 中间件漏洞集合
-+ [Apacge](https://blog.csdn.net/Blood_Pupil/article/details/88243391#Apache_5)
++ [Apache](https://blog.csdn.net/Blood_Pupil/article/details/88243391#Apache_5)
 + [Nginx](https://blog.csdn.net/Blood_Pupil/article/details/88243391#Nginx_12)
 + [IIS](https://blog.csdn.net/Blood_Pupil/article/details/88243391#IIS_25)
 + [Tomcat](https://blog.csdn.net/Blood_Pupil/article/details/88243391#Tomcat_132)
