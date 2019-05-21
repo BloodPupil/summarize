@@ -9,7 +9,7 @@
 ....
 ### Web通用漏洞分析
 + [XXE]()
-+ [SQl]()
++ [SQLi]()
 + [XSS]()
 + [SSRF]()
 + [CSRF]()
@@ -19,10 +19,19 @@
 + [命令执行]()
 + [代码执行]()
 + [编程语言漏洞与弱点]()
-### [常见框架漏洞]()
-### [常见CMS漏洞]()
-### [常见组件漏洞]()
-## [中间件漏洞集合]()
+### 常见框架漏洞
++ [ThinkPHP](https://blog.csdn.net/Blood_Pupil/article/details/88756949#ThinkPHP_1)
+### 常见CMS漏洞
+### 常见组件漏洞
+## 中间件漏洞集合
++ [Apacge](https://blog.csdn.net/Blood_Pupil/article/details/88243391#Apache_5)
++ [Nginx](https://blog.csdn.net/Blood_Pupil/article/details/88243391#Nginx_12)
++ [IIS](https://blog.csdn.net/Blood_Pupil/article/details/88243391#IIS_25)
++ [Tomcat](https://blog.csdn.net/Blood_Pupil/article/details/88243391#Tomcat_132)
++ [Jboss](https://blog.csdn.net/Blood_Pupil/article/details/88243391#JBoss_139)
++ [Weblogic](https://blog.csdn.net/Blood_Pupil/article/details/88243391#Weblogic_148)
++ [WebSphere](https://blog.csdn.net/Blood_Pupil/article/details/88243391#WebSphere_183)
++ [CGI](https://blog.csdn.net/Blood_Pupil/article/details/88243391#CGI_184)
 ## 内网
 + [端口转发及代理](https://blog.csdn.net/Blood_Pupil/article/details/88913145)
 + [提权]()
